@@ -1,6 +1,6 @@
 # chatgpt-web-ai
 
-演示站： [前端](https://www.ailtba.com))
+演示站： [前端](https://www.ailtba.com)
 
 演示站： [后端](http://chat.twoai.cn/admins)
 
